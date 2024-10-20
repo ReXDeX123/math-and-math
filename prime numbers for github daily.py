@@ -10,11 +10,3 @@ def prime_numbers(n):
             except:
                 continue
     return number
-                
-
-
-
-
-
-
-
